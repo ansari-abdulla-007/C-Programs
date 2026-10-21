@@ -1,0 +1,1 @@
+// Develop a C program to find the sum of first N natural numbers using loop.
